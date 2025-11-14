@@ -60,15 +60,6 @@ My work blends **web development**, **blockchain**, and **AI** to create real-wo
 
 ---
 
-## 🔥 **Tech Stats & GitHub Analytics**
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=LungaMashaba&show_icons=true&theme=tokyonight" height="165" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=LungaMashaba&layout=compact&theme=tokyonight" height="165" />
-</p>
-
----
-
 ## ⚙️ **Tech Stack**
 
 <p align="center">
@@ -80,7 +71,7 @@ My work blends **web development**, **blockchain**, and **AI** to create real-wo
 ## 🌍 **Let's Connect**
 <p align="center">
   <a href="https://github.com/LungaMashaba"><img src="https://img.shields.io/badge/GitHub-000?style=for-the-badge&logo=github&logoColor=white"></a>
-  <a href="https://www.linkedin.com"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a>
+  <a href="www.linkedin.com/in/lunga-mashaba-a30426294"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a>
 </p>
 
 ---
