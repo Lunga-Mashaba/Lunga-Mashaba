@@ -1,6 +1,6 @@
 <!-- Banner -->
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&weight=700&size=32&duration=3000&pause=500&color=00E5FF&center=true&vCenter=true&width=900&lines=Lunga+Mashaba+⚡;Full-Stack+Developer+%7C+Blockchain+Engineer+%7C+AI+Builder" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&weight=700&size=32&duration=3000&pause=500&color=00E5FF&center=true&vCenter=true&width=900&lines=Lunga+Mashaba+⚡;Full-Stack+Developer+%7C+Blockchain+Engineer+%7C+AI+Builder"/>
 </p>
 
 ---
@@ -19,7 +19,7 @@ I don’t just write code — I create **systems that transform industries**, **
 
 ---
 
-## ⚡ **Tech Identity (Animated Overview)**
+## ⚡ **Tech Identity**
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=22&duration=2500&pause=600&color=39FF14&center=true&vCenter=true&width=700&lines=Full-Stack+Developer;Blockchain+Innovator;AI+Automation+Engineer;Cloud+Native+Creator;Digital+Systems+Architect" />
 </p>
