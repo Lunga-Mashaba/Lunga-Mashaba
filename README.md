@@ -2,7 +2,7 @@
 # 👋 Hi, I'm **Lunga Mashaba**
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?color=00FFFF&size=28&center=true&vCenter=true&width=650&lines=Full-Stack+Developer;Blockchain+Innovator;AI+Workflow+Architect;Building+Digital+Ecosystems+That+Create+Impact" />
+  <img src="https://readme-typing-svg.herokuapp.com?color=00FFFF&size=28&center=true&vCenter=true&width=650&lines=Full-Stack+Developer;Blockchain+Innovator;AI+Workflow+Architect" />
 </p>
 
 ---
