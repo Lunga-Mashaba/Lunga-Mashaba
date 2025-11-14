@@ -1,6 +1,6 @@
 <!-- Banner -->
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&weight=700&size=32&duration=3000&pause=500&color=00E5FF&center=true&vCenter=true&width=900&lines=Lunga+Mashaba+⚡;Full-Stack+Developer+%7C+Blockchain+Engineer+%7C+AI+Builder;Engineering+The+Future+With+Code+🚀" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&weight=700&size=32&duration=3000&pause=500&color=00E5FF&center=true&vCenter=true&width=900&lines=Lunga+Mashaba+⚡;Full-Stack+Developer+%7C+Blockchain+Engineer+%7C+AI+Builder" />
 </p>
 
 ---
@@ -26,7 +26,7 @@ I don’t just write code — I create **systems that transform industries**, **
 
 ---
 
-# 🧠 **Core Skills Matrix (Neon Mode)**
+# 🧠 **Core Skills Matrix**
 
 ### 🖥️ **Frontend & Backend Development**
 - HTML • CSS • JS • React.js • TypeScript
@@ -58,15 +58,7 @@ I don’t just write code — I create **systems that transform industries**, **
 
 ---
 
-# 🔥 **Tech Stats (Glowing Mode)**
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=LungaMashaba&show_icons=true&theme=highcontrast&hide_border=true&icon_color=00E5FF&title_color=39FF14&text_color=FFFFFF" height="170" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=LungaMashaba&layout=compact&theme=highcontrast&hide_border=true&title_color=39FF14" height="170" />
-</p>
-
----
-
-# 💻 **Tech Arsenal (Animated Icons)**
+# 💻 **Tech Arsenal**
 <p align="center">
   <img src="https://skillicons.dev/icons?i=html,css,javascript,react,typescript,nodejs,cs,dotnet,azure,mongodb,firebase,solidity,git,github,linux&theme=dark" />
 </p>
